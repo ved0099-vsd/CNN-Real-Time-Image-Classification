@@ -32,7 +32,6 @@ CNN-Realtime-Image-Classification/
 ├── requirements.txt
 └── venv/
 
-Note: Do not upload the venv/ folder to GitHub. Add it to .gitignore.
 
 🐍 Virtual Environment Setup
 
